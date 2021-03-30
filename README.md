@@ -1,7 +1,7 @@
 # NumberGuessGame
 
-> Eklemeler ve düzzenlemeler gelecek!
-<br><br>
+> Eklemeler ve düzenlemeler gelecek!
+
 <br><br>
 <p>
 <img src="docs/mockups/1.png"  width="320" height="650"> &nbsp;&nbsp;
