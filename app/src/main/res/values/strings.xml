@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SayiTahminiOyunu</string>
+    <string name="tahmininiz">Tahmininiz</string>
+    <string name="empty_error">Lütfen bir sayı giriniz</string>
+    <string name="length_error">Lütfen 0 ile 100 arasında bir sayı giriniz</string>
+    <string name="number_error">Lütfen 0 ile 100 arasında bir sayı giriniz</string>
+
+</resources>
